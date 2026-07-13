@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import { connect } from 'react-redux';
-import Post from './post';
+import Post from './posts';
 
 class ResultsPosts extends Component {
     
